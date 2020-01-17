@@ -1,5 +1,6 @@
 def test():
-    i = 100
+    i = "OK"
+    print(i)
     return "Hello all world!"
 
 print(test())
