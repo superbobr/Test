@@ -6,3 +6,6 @@ def test():
 print(test())
 
 #TODO Python
+
+x, y = map(int, input().split())
+print(x, y)
